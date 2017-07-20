@@ -1,0 +1,42 @@
+html, body
+{
+  padding: 0;
+  margin: 0;
+}
+
+html
+{
+  background-color: #edeeec;
+  color: black;
+
+  background-image: url(wave.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+
+  padding-top: 75px;
+
+  font: arial;
+  font-size: 1.2em;
+}
+
+body
+{
+  max-width: 50em;
+}
+
+h2
+{
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+a
+{
+  text-decoration: none;
+  color: #8F0000;
+}
+
+#main-content
+{
+  margin: 2em 2em 2em 4em;
+}
